@@ -1,0 +1,10 @@
+form{
+    top: 0;
+    left: 50%;
+    position: absolute;
+    max-width: 350px;
+    transform: translate(-50%, 50%);
+    background-color: green;
+    padding: 50px 50px;
+    border-radius: 20px;
+}
